@@ -1,0 +1,27 @@
+# Unreal Engine - Recommended ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+
+# Ignore build files and user settings
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.log
+*.pdb
+*.dll
+*.exe
+*.app
+*.lib
+
+# If you use Rider or VSCode
+.idea/
+.vscode/
+
+# Build artifacts
+Build/
